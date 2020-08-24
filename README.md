@@ -1,2 +1,2 @@
 # Memory_Containers
-Memory Condainers interactive media art progect
+Memory Containers interactive media art project
